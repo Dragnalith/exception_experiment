@@ -2,4 +2,6 @@ clang-with/*
 clang-without/*
 msvc-with/*
 msvc-without/*
+msvc-without-full/*
 .vs/*
+out/*

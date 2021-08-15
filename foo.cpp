@@ -13,7 +13,7 @@ public:
     int A;
 };
 
-int foo(int a) {
+int foo(int a) noexcept {
     MyFoo c(a);
     int b = baz_bottom(a);
     return b * b;

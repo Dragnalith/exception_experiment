@@ -1,3 +1,3 @@
 #pragma once
 
-int foo(int a);
+int foo(int a) noexcept;
