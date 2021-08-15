@@ -1,0 +1,1 @@
+- If `-fno-exceptions` is used to compile a .cpp file with clang

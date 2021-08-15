@@ -1,0 +1,5 @@
+clang-with/*
+clang-without/*
+msvc-with/*
+msvc-without/*
+.vs/*
